@@ -28,7 +28,7 @@ info = {
 "Syndic of Tithes" : { "card_rarity" : "Common", "card_number" : "26", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/26.jpg"},
 "Urbis Protector" : { "card_rarity" : "Uncommon", "card_number" : "27", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/27.jpg"},
 "Zarichi Tiger" : { "card_rarity" : "Common", "card_number" : "28", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/28.jpg"},
-"Ætherize" : { "card_rarity" : "Uncommon", "card_number" : "29", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/29.jpg"},
+"Aetherize" : { "card_rarity" : "Uncommon", "card_number" : "29", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/29.jpg"},
 "Agoraphobia" : { "card_rarity" : "Uncommon", "card_number" : "30", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/30.jpg"},
 "Clinging Anemones" : { "card_rarity" : "Common", "card_number" : "31", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/31.jpg"},
 "Cloudfin Raptor" : { "card_rarity" : "Common", "card_number" : "32", "card_image" : "http://www.waiting4u.org/mtg/images/card_images/gtc/English/32.jpg"},
